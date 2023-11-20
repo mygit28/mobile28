@@ -1,1 +1,1 @@
-<a href="https://hubpropertyiran.com/buy-property-cyprus/"><h1>اقامت قبرس شمالی</h1></a>
+<a href="https://hubpropertyiran.com/buy-property-cyprus/">اقامت قبرس شمالی</a>
