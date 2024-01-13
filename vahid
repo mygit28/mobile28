@@ -143,9 +143,7 @@
         "type": "field",
         "outboundTag": "direct",
         "domain": [
-          "domain:hightechdevelopers.co.uk",
-          "domain:local",
-          "domain:hilog.ir"
+          "domain:local"
         ]
       },
       {
